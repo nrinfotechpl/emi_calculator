@@ -1,1 +1,4 @@
-A working test GitHub repo with sample APK and version.json?
+{
+  "versionCode": 2,
+  "apkUrl": "https://github.com/nrinfotechpl/emi_calculator/edit/master/myapp_v1.2.apk"
+}
