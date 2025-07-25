@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/Home"
+        android:title="Home"
+        />
+    <item
+        android:icon="@drawable/baseline_message_24"
+        android:id="@+id/SendWhatsapp"
+        android:title="Send Whatsapp"
+        />
+    <group>
+        <item
+            android:icon="@drawable/baseline_calculate_24"
+            android:id="@+id/CalculateCash"
+            android:title="Cash Calculator"
+            />
+        <item
+            android:icon="@drawable/baseline_calculate_24"
+            android:id="@+id/CalculateEMI"
+            android:title="EMI Calculator"
+            />
+        <item
+            android:icon="@drawable/baseline_calculate_24"
+            android:id="@+id/CalculateINT"
+            android:title="Interest Calculator"
+            />
+
+
+    </group>
+<group>
+    <item
+        android:icon="@drawable/outline_headset_mic_24"
+        android:id="@+id/ContactUs"
+        android:title="Contact Us"
+        />
+</group>
+
+
+</menu>
