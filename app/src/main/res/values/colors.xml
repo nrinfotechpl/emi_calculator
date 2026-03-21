@@ -4,5 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorAccent">#F27D7D</color>
     <color name="primary">#F27D7D</color>
+    <color name="card_bg">#D7EEF6</color>
+    <color name="image_bg">#D5D3D3</color>
 
 </resources>
