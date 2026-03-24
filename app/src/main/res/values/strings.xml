@@ -15,7 +15,8 @@
     <string name="cash_calculator">Cash Calculator</string>
     <string name="emi_calculator">EMI Calculator</string>
     <string name="interest_calculator">Interest Calculator</string>
-    <string name="welcome_msg">Hi, Welcome to our new apps that is usefull for your daily life . Please share it to your friends and family as many as you can. Thanks You.</string>
+    <string name="welcome_msg">Hi, Welcome to our new apps that is useful for your daily life . Please share it to your friends and family as many as you can. Thanks You.</string>
+    <string name="menu">menu</string>
     <string-array name="duration_type_array">
         <item>Years</item>
         <item>Months</item>
