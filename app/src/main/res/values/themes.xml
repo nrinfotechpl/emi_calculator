@@ -3,9 +3,16 @@
     <style name="Base.Theme.EMICalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <item name="android:windowLightStatusBar">true</item>
 
     </style>
+
 
     <style name="Theme.EMICalculator" parent="Base.Theme.EMICalculator" />
 
