@@ -117,13 +117,15 @@
                         android:gravity="center"
                         android:text="500" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et500"
@@ -192,13 +194,15 @@
                         android:gravity="center"
                         android:text="200" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et200"
@@ -266,13 +270,15 @@
                         android:gravity="center"
                         android:text="100" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et100"
@@ -340,13 +346,15 @@
                         android:gravity="center"
                         android:text="50" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et50"
@@ -414,13 +422,15 @@
                         android:gravity="center"
                         android:text="20" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et20"
@@ -488,13 +498,15 @@
                         android:gravity="center"
                         android:text="10" />
 
-                    <ImageView
-                        android:layout_width="0dp"
+                    <TextView
+                        android:layout_width="18dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
+                        android:textSize="18sp"
+                        android:textColor="#000"
                         android:layout_gravity="center"
                         android:gravity="center"
-                        app:srcCompat="@drawable/cross" />
+                        android:text="X" />
 
                     <EditText
                         android:id="@+id/et10"

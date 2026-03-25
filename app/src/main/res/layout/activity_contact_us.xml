@@ -72,6 +72,25 @@
             android:textStyle=""
             android:textSize="15sp"
             android:textColor="@color/black"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:layout_margin="25dp"
+            android:gravity="center">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/whatsapp"
+                android:layout_marginHorizontal="10dp"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/whatsapp"
+                android:layout_marginHorizontal="10dp"/>
+        </LinearLayout>
     </LinearLayout>
 
     <!-- Navigation drawer -->
