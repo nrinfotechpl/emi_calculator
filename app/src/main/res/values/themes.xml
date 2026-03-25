@@ -11,9 +11,26 @@
 
         <item name="android:windowLightStatusBar">true</item>
 
+        <item name="textInputStyle">@style/CustomTextInputLayout</item>
+
+
+
+
+    </style>
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <!-- Border color -->
+        <item name="boxStrokeColor">@color/border</item>
+
+        <!-- Hint color -->
+        <item name="hintTextColor">@color/border</item>
+        
+        <item name="android:state_focused">true</item>
+
+
     </style>
 
 
-    <style name="Theme.EMICalculator" parent="Base.Theme.EMICalculator" />
+    <style name="Theme.EMICalculator" parent="Base.Theme.EMICalculator"/>
 
 </resources>

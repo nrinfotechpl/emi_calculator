@@ -16,7 +16,8 @@
         <androidx.appcompat.widget.Toolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="#F27D7D">
+            android:background="@drawable/menu_bar"
+            android:elevation="4dp">
 
             <ImageButton
                 android:id="@+id/buttonDrawerToggle"
@@ -33,6 +34,8 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:hint="Mobile Number"
+            app:hintTextColor="@color/black"
+            app:boxStrokeColor="@color/black"
             app:startIconDrawable="@drawable/outline_phone_iphone_24"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
             <com.google.android.material.textfield.TextInputEditText

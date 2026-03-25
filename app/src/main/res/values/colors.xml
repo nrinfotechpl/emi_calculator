@@ -6,5 +6,6 @@
     <color name="primary">#F27D7D</color>
     <color name="card_bg">#f4f4f4</color>
     <color name="image_bg">#E6E2E2</color>
+    <color name="border">#7A7878</color>
 
 </resources>
